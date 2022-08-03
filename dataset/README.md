@@ -15,3 +15,5 @@ Abstract: Pumpkin seeds are frequently consumed as confection worldwide because 
 Keywords Pumpkin seed Logistic regression, Multilayer peceptrons, Random forest, Classification, Support vector machine, Thresholding
 
 DATASET: https://www.muratkoklu.com/datasets/
+
+source: https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset
