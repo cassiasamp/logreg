@@ -1,2 +1,2 @@
-# logreg
-dataset and guide materials
+# stacknotes
+datasets and guide materials
