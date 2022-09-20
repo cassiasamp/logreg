@@ -1,2 +1,2 @@
 # stacknotes
-datasets and guide materials
+some datasets and guide materials
