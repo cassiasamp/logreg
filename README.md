@@ -1,2 +1,2 @@
 # stacknotes
-some Stack Abuse datasets and guides materials
+some Stack Abuse datasets and guide materials
